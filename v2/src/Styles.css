@@ -1,0 +1,14 @@
+/* Estilo básico para a aplicação */
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1, h3, h4 {
+    text-align: center;
+  }
+  
+  button {
+    margin-right: 10px;
+  }
+  
